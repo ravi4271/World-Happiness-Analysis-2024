@@ -48,9 +48,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 # How to Use
 
-* Clone the repository: git clone https://github.com/yourusername/World-Happiness-Analysis-2024.git
-
-* Open the Jupyter Notebook: jupyter notebook happ.ipynb
+* Open the Jupyter Notebook: jupyter notebook analysis.ipynb
 
 * Run the notebook to explore data insights.
 
