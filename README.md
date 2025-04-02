@@ -67,15 +67,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 5.       Israel         7.341
 
-6.  Netherlands         7.319
+6.     Netherlands         7.319
 
 7.       Norway         7.302
 
-8.  Luxembourg         7.122
+8.     Luxembourg         7.122
 
-9.  Switzerland         7.060
+9.     Switzerland         7.060
 
-10.    Australia         7.057
+10.      Australia         7.057
 
 Key Drivers of Happiness:
 - GDP per capita impact: 1.04
