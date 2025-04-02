@@ -59,7 +59,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
     Country name   Ladder score
 1.      Finland         7.741
 
-2      Denmark         7.583
+2.      Denmark         7.583
 
 3.     Iceland         7.525
 
