@@ -56,26 +56,26 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 # Key Findings & Insights
 
-  Country name  Ladder score
-0      Finland         7.741
+    Country name   Ladder score
+1.      Finland         7.741
 
-1      Denmark         7.583
+2      Denmark         7.583
 
-2      Iceland         7.525
+3.     Iceland         7.525
 
-3       Sweden         7.344
+4.       Sweden         7.344
 
-4       Israel         7.341
+5.       Israel         7.341
 
-5  Netherlands         7.319
+6.  Netherlands         7.319
 
-6       Norway         7.302
+7.       Norway         7.302
 
-7   Luxembourg         7.122
+8.  Luxembourg         7.122
 
-8  Switzerland         7.060
+9.  Switzerland         7.060
 
-9    Australia         7.057
+10.    Australia         7.057
 
 Key Drivers of Happiness:
 - GDP per capita impact: 1.04
