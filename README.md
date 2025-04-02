@@ -10,11 +10,15 @@ This project analyzes the World Happiness Report 2024 (WHR2024) dataset to uncov
 
 1. Data Preprocessing & Cleaning
 
-* Dropped rows with missing happiness scores.
+ * Dropped rows with missing happiness scores.
 
-* Filled missing GDP values with the median.
+ * Filled missing GDP values with the median.
 
-* Ensured data consistency for analysis.
+ * Ensured data consistency for analysis.
+
+![Top_10_Countries](images/output4.png)
+
+ 
 
 
 2. Feature Correlation Analysis
