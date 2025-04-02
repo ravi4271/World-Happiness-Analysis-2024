@@ -16,16 +16,18 @@ This project analyzes the World Happiness Report 2024 (WHR2024) dataset to uncov
 
  * Ensured data consistency for analysis.
 
-![Top_10_Countries](images/output4.png)
-
- 
 
 
-2. Feature Correlation Analysis
+ 2. Feature Correlation Analysis
    
 * Generated a heatmap to show correlations between GDP per capita, 
+
   Social support, Healthy life expectancy and Freedom to make life choices.
 
+![Top_10_Countries](images/output4.png)
+
+
+![Heatmap](images/output2.png)
 
 
 
@@ -33,6 +35,8 @@ This project analyzes the World Happiness Report 2024 (WHR2024) dataset to uncov
 
 * Clustering Analysis using K-Means to group countries based on happiness and GDP.
 * Linear Regression to examine the impact of key factors on happiness.
+
+  ![clusters](images/output3.png)
 
 
 
@@ -74,5 +78,4 @@ Key Drivers of Happiness:
 
 # License
 
-This project is open-source under the MIT License.
-
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
