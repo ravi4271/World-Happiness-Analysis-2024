@@ -42,7 +42,7 @@ This project analyzes the World Happiness Report 2024 (WHR2024) dataset to uncov
 
 # Requirements
 
-Install dependencies using:
+Install dependencies using
 
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
