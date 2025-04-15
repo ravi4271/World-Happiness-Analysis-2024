@@ -8,7 +8,7 @@ This project analyzes the World Happiness Report 2024 (WHR2024) dataset to uncov
 
 # Features & Methods
 
-1. Data Preprocessing & Cleaning
+## 1. Data Preprocessing & Cleaning
 
  * Dropped rows with missing happiness scores.
 
@@ -18,7 +18,7 @@ This project analyzes the World Happiness Report 2024 (WHR2024) dataset to uncov
 
 
 
- 2. Feature Correlation Analysis
+## 2. Feature Correlation Analysis
    
 * Generated a heatmap to show correlations between GDP per capita, 
 
@@ -31,7 +31,7 @@ This project analyzes the World Happiness Report 2024 (WHR2024) dataset to uncov
 
 
 
-2. Machine Learning Model
+## 3. Machine Learning Model
 
 * Clustering Analysis using K-Means to group countries based on happiness and GDP.
 * Linear Regression to examine the impact of key factors on happiness.
